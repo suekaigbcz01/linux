@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/zkj/%E4%B8%8B%E8%BD%BD/sim.tar" added="2016-10-27T14:44:03Z" modified="2016-10-27T14:48:49Z" visited="2016-10-27T14:44:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2016-10-27T14:44:03Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2016-10-27T14:48:49Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zkj/%E4%B8%8B%E8%BD%BD/sim/Makefile" added="2016-10-27T14:52:16Z" modified="2016-10-27T14:57:45Z" visited="2016-10-27T14:52:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-makefile"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-10-27T14:52:16Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-10-27T14:57:45Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zkj/.ssh/id_rsa.pub" added="2016-10-27T15:35:13Z" modified="2016-10-29T02:05:27Z" visited="2016-10-27T15:35:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.ms-publisher"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-10-29T02:05:27Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zkj/%E4%B8%8B%E8%BD%BD/20145314%E9%83%91%E5%87%AF%E6%9D%B0.zip" added="2016-10-28T04:50:47Z" modified="2016-10-28T04:51:56Z" visited="2016-10-28T04:50:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2016-10-28T04:50:47Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;file-roller %U&apos;" modified="2016-10-28T04:51:53Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2016-10-28T04:51:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zkj/%E4%B8%8B%E8%BD%BD/20145314.zip" added="2016-10-28T04:53:05Z" modified="2016-10-28T04:53:13Z" visited="2016-10-28T04:53:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2016-10-28T04:53:05Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2016-10-28T04:53:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zkj" added="2016-10-29T02:13:34Z" modified="2016-10-29T02:13:34Z" visited="2016-10-29T02:13:34.798350Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;nautilus %u&apos;" modified="2016-10-29T02:13:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
